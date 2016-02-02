@@ -1,0 +1,137 @@
+.shopIcons{
+	position:absolute;
+	top:0px;
+	left:0px;
+	clear:both;
+}
+/*
+.closerLookLinks{
+	position:relative;
+	float:left;
+	width:180px;
+	margin:20px 0 12px;
+}
+.closerLookLinks a{
+	font-size:14px;
+	line-height:25px;
+}
+*/
+
+#closerLookLinks_container {
+	padding:2% 0;	
+}
+.closerLookLinks{
+	position:relative;
+	float:left;
+	width:180px;
+	padding:0px;
+	border:0px solid red;
+}
+.closerLookLinks a{
+	font-size:14px;
+	line-height:25px;
+}
+.accessorize_thumb{
+	overflow:hidden;
+	width:53px;
+	height:53px;
+	margin-right:10px;
+}
+
+.playButton{
+	position:absolute;
+	width:108px;
+	top:25%;
+	left:22%;
+	height:108px;
+}
+
+.accessorize_thumb{
+	border:none;
+	width:56px;
+	height:56px;
+	border-width:3px;
+	border-style:solid;
+	border-color:rgba(255,255,255,0);
+}
+.accessorize_thumb_on{
+	border-color:#ffffff;
+}
+
+.accessorize_thumb_container{
+	margin-bottom:3px;
+}
+
+.footer_nav{
+	clear:both;
+}
+
+.socialIconWrapper{
+	position:relative;
+	width:100%;
+	margin-bottom:20px;
+}
+
+.socialIcons{
+	position:relative;
+	width:327px;
+	max-width:327px;
+	margin:0 auto;
+}
+
+.socialIcon{
+	position:relative;
+	float:left;
+	margin-right:45px;
+}
+
+.socialIcon:nth-child(4){
+	margin-right:0px;
+}
+#legalText{
+	padding:0 65px;
+}
+#legalText p a{
+	color:#007cc2;
+	text-decoration:underline;
+}
+.centered-btns_tabs{
+	margin-top:-25px;
+}
+.modal_link{
+	clear:both;
+	float:left;
+	border:1px solid #fff;
+	padding:5px 10px;
+	margin-top:5px;
+	width:auto;
+}
+.modal_link:hover{
+	border-color:#cccccc;
+}
+.modal_link a{
+	text-decoration:none;
+}
+#accNav{
+	position:absolute;
+	top:0;
+	width:50%;
+}
+#accNavLeft{
+	position:absolute;
+	width:22px;
+	height:22px;
+	left:3%;
+	top:93px;
+	float:left;
+	cursor:pointer;
+}
+#accNavRight{
+	position:absolute;
+	width:22px;
+	height:22px;
+	right:3%;
+	top:93px;
+	float:right;
+	cursor:pointer;
+}

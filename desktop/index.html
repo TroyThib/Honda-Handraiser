@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Honda</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/responsiveslides.css">
+	<link rel="stylesheet" href="css/dynamic.css">
+
+	<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script src="http://youtube.com/iframe_api"></script>
+	<script src="js/jquery.responsiveslides.min.js"></script>
+	<script src="js/jquery.plainmodal.min.js"></script>
+	<script src="js/jquery.touchswipe.min.js"></script>
+	<script src="js/jquery.cycle.all.min.js"></script>
+	<script src="js/data.js"></script>
+	<script src="js/functions.js"></script>
+	
+	<script>
+		var rnd = Date.now() + "-" + (Math.floor(Math.random()*1000));
+		document.write('<link rel="apple-touch-icon" href="/images/icon_apple_114.png?'+rnd+'" />');
+		document.write('<link rel="apple-touch-icon" sizes="57x57" href="/images/icon_apple_57.png?'+rnd+'" />');
+		document.write('<link rel="apple-touch-icon" sizes="72x72" href="/images/icon_apple_72.png?'+rnd+'" />');
+		document.write('<link rel="apple-touch-icon" sizes="114x114" href="/images/icon_apple_114.png?'+rnd+'" />');
+		document.write('<link rel="apple-touch-icon" sizes="144x144" href="/images/icon_apple_144.png?'+rnd+'" />');
+		document.write('<link rel="icon" type="image/png" href="favicon.ico?'+rnd+'">');
+	</script>
+
+	<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body id="top">
+	<div id="hidden_nav"> <a id="TriggerPrevious" href="#">TriggerPrevious</a> <a id="TriggerNext" href="#">TriggerNext</a> </div>
+<!-- START OF NAV -->
+	<nav>
+		<ul>
+			<li><a href="#top" id="linkMainNavHome"><img src="images/nav/nav_home.png" alt="home"></a></li>
+			<li><a href="#shop" id="linkMainNavShop"><img src="images/nav/nav_shop.png" alt="shop"></a></li>
+			<li><a href="#discover" id="linkMainNavDiscover"><img src="images/nav/nav_discover.png" alt="discover"></a></li>
+			<li><a href="#explore" id="linkMainNavExplore"><img src="images/nav/nav_explore.png" alt="explore"></a></li>
+		</ul>
+		<div class="clear_both"></div>
+	</nav>
+<!-- END OF NAV --> 
+<!-- START OF HEADER -->
+	<div class="content" id="header">
+		<div id="logo"><img src="images/honda_logo.jpg" alt="Honda"></div>
+		<div id="salutation"><span id="name" class="pink_txt">Theresa,</span> <span id="first_word">you&#8217;re</span> going to want to see what we&#8217;re up to at <span class="pink_txt">Honda.</span></div>
+		<p class="clear_both"></p>
+	</div>
+<!-- END OF HEADER -->
+	<div id="slideshow_wrapper"> 
+<!-- Slideshow 1 -->
+		<div class="rslides_container">
+			<ul class="rslides" id="slider1">
+			  <li><a href="#lanewatch"><img src="images/ss/img-slides_accord-01.jpg" alt="" id="slide1_img"></a></li>
+			  <li><a href="#accessories"><img src="images/ss/img-slides_accord-01.jpg" alt="" id="slide2_img"></a></li>
+			  <li><a href="#hondalink"><img src="images/ss/img-slides_accord-01.jpg" alt="" id="slide3_img"></a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="clear_both"></div>
+	<div class="content" id="shop">
+		<h2><img src="images/shop_icon_blue.png"> <span id="shopHeader">Looking to purchase?</span></h2>
+		<span id="shopHeaderText">You know a good thing when you see it. Use the tools and information below to help you find the Honda that will take you where you want to go next.</span></div>
+	<div class="content">
+		<div class="small_module" id="buildYourHonda">
+			<img class="shopIcons" src="images/shop/icon_build.png" alt="Build Your Honda" />
+			<a href=""><img id="buildYourHondaImg" src="images/shop/img-shop-accord-build.jpg" alt="Build Your Honda" /></a>
+			<div class="module_content" id="buildYourHondaText"> There's nothing like seeing it all come together. From colors to accessories, building and pricing your perfect Honda is just a few clicks away. </div>
+			<a href="http://automobiles.honda.com/tools/build-price/models.aspx" class="white_btn">BUILD &amp; PRICE</a>
+		</div>
+		<div class="small_module" id="compareModels">
+			<img class="shopIcons" src="images/shop/icon_compare.png" alt="Build Your Honda" />
+			<a href=""><img id="compareModelsImg" src="images/shop/img-shop-accord-compare.jpg" alt="Compare" /></a>
+			<div class="module_content" id="compareModelsText"> See every Honda at a glance. Select and compare your favorite models, even compare against competitor brands. With our comparison tool, you'll be able to quickly see where Honda holds the advantage. </div>
+			<a href="http://automobiles.honda.com/tools/compare/models.aspx" class="white_btn">COMPARE VEHICLES</a>
+		</div>
+		<div class="small_module" id="offers">
+			<img class="shopIcons" src="images/shop/icon_offers.png" alt="Build Your Honda" />
+			<a href=""><img id="offersImg" src="images/shop/img-shop-accord-offers.jpg" alt="Offers" /></a>
+			<div class="module_content" id="offersText"> Whether you're thinking of leasing or financing, we have the special offer to make your dream Honda a reality. See the latest offers available in your area now. </div>
+			<a href="http://automobiles.honda.com/current-offers.aspx" class="white_btn">SEE OFFERS</a>
+		</div>
+		<div class="clear_both"></div>
+	</div>
+<!-- START OF BANNER -->
+	<div class="content" id="closerLook">
+		<div class="banner">
+			<div id="banner-gallery" class="banner_left">
+				<div id="closerLookImgs"> <img id="closerLookImg" src="images/interiors/img-interior-accord.jpg" alt="Take A Closer Look"></div>
+			</div>
+			<div class="banner_right">
+				<div class="right_banner_header" id="closerLookHeader">Take a closer look at the Accord.</div>
+				<span id="closerLookText">Buying a vehicle is a big decision. That’s why it’s important to have resources like these to help you find what you really want.</span>
+				<div id="closerLookLinks_container">
+					<div class="closerLookLinks">
+						<a id="closerLookGallery" href="">See gallery &raquo;</a>
+						<a id="closerLookFeatures" href="">Check out features &raquo;</a>
+                        <a id="closerLookEspanolLink" href"http://es.automobiles.honda.com/accord/">En Espa&ntilde;ol &raquo;</a>
+					</div>
+					<div class="closerLookLinks">
+						<a id="closerLookBrochure" href="">View a brochure &raquo;</a>
+						<a id="closerLookUpdates" href="">Get updates on the Accord &raquo;</a>
+					</div>  	
+					<div class="clear_both;"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="content" id="accessories">
+		<div class="banner">
+			<div id="banner-gallery" class="banner_left">
+				<div id="imgs"> <img id="banner-image1" src="images/accessories/img-accessory-accord-01.jpg" alt=""> <img id="banner-image2" src="images/accessories/img-accessory-accord-02.jpg" alt=""> <img id="banner-image3" src="images/accessories/img-accessory-accord-03.jpg" alt=""> </div>
+				<div id="accNav">
+					<div id="accNavLeft"><img src="images/arrow_left.png" width="22" height="22"></div>
+					<div id="accNavRight"><img src="images/arrow_right.png" width="22" height="22"></div>
+				</div>
+			</div>
+			<div class="banner_right">
+				<div class="accessorize_thumb_container"> <img src="images/accessories/thb/thb-accessory-accord-01.jpg" alt="" id="accessorize_thumb_1" class="accessorize_thumb accessorize_thumb_on"> <img src="images/accessories/thb/thb-accessory-accord-02.jpg" alt="" id="accessorize_thumb_2" class="accessorize_thumb"> <img src="images/accessories/thb/thb-accessory-accord-03.jpg" alt="" id="accessorize_thumb_3" class="accessorize_thumb"> </div>
+				<div class="right_banner_header" id="accessoryTitle">Accessorize and customize.</div>
+				<div  id="accessoryText">Chrome wheels, spoiler, illuminated door sill trim&#8212;there are so many ways to put your personal touch on your Honda.</div>
+				<div class="modal_link" id="accessorize_link"><a href="#">See our latest &gt;</a></div>
+			</div>
+			<div class="clear_both"></div>
+		</div>
+	</div>
+	<div class="content">
+		<div class="medium_module">
+			<div class="module_content">
+				<span class="med_mod_header"><img src="images/icon_payments.png" alt="Payment" id="payment_icon"> Estimate payments</span> Estimate your payments for leasing or financing a new Honda with our helpful financial calculator tool.<br>
+				<br><a id="paymentCalculator" href="http://www.honda.ca/lease-and-finance/payment-calculator" class="blue_btn">CALCULATE</a>
+			</div>
+		</div>
+		<div class="medium_module">
+			<div class="module_content">
+				<span class="med_mod_header"><img src="images/payment_icon.png" alt="Payment" id="payment_icon"> Request a quote</span> Locate your nearest local dealer and request a price quote for a particular Honda model and model year.<br>
+				<br><a id="requestQuote" href="http://automobiles.honda.com/tools/request-a-quote/models.aspx?" class="blue_btn" id="request_quote_form_btn">SEARCH</a>
+			</div>
+		</div>
+		<div class="clear_both"></div>
+	</div>
+<!-- END OF BANNER -->
+	<div class="content content_header" id="discover">
+		<h2><img src="images/icon_innovations.png"/>Let&#8217;s talk innovations</h2>
+	</div>
+<!-- START OF BANNER - WIDGET 2 -->
+	<div class="content" id="lanewatch">
+		<div class="banner">
+			<div class="banner_left"><a href="#" class="modal_btn2"><img src="images/discover_2.png" alt="" id="modal_btn_2"></a></div>
+			<div class="banner_right">
+				<div class="right_banner_header" id="modal_btn_2_title">Increase your visibility by 60&deg; with Honda LaneWatch&trade;.&sup1;</div>
+				<div id="modal_btn_2_text">A tiny camera on your passenger-side mirror reveals nearly 4 times more (80° instead of 20°) giving you an expanded view of your passenger-side blind spot. <a href="//owners.honda.com/vehicles/information/2014/Civic-Coupe/features/Honda-LaneWatch/3">See it in action &gt&gt;</a></div>
+				<div class="modal_link" id="modal_btn_2_link"></div>
+			</div>
+		</div>
+	</div>
+<!-- END OF BANNER -->
+<!-- START OF BANNER - WIDGET 1 -->
+	<div class="content">
+		<div class="banner">
+			<div class="banner_left"><a href="#" class="modal_btn"><img src="images/discover_1.png" alt="" id="modal_btn_1"></a></div>
+			<div class="banner_right">
+				<div class="right_banner_header" id="modal_btn_1_title">ASIMO: The Future of Mobility Assistance</div>
+				<div id="modal_btn_1_text">Asimo is one of Honda’s groudbreaking innovations. He runs, jumps, dances and more. He can anticipate people’s movements and can distinguish them by their voice and face. <a href="//www.youtube.com/watch?v=FShZddlsjkA&index=1&list=PL2FEFAF55603817E7">Check out his moves &gt;&gt;</a></div>
+				<div class="modal_link" id="modal_btn_1_link"></div>
+			</div>
+		</div>
+	</div>
+<!-- END OF BANNER --> 
+	<div class="content content_header" id="explore">
+		<h2><img src="images/explore_icon_blue.png">Honda beyond the drive</h2>
+	</div>
+<!-- START OF BANNER - WIDGET 6 -->
+	<div class="content">
+		<div class="banner">
+			<div class="banner_left"><a href="#" class="modal_btn"><img src="images/explore_3.png" alt="" id="modal_btn_6"></a></div>
+			<div class="banner_right">
+				<div class="right_banner_header" id="modal_btn_6_title">The Honda Civic Tour thrills fans across the country.</div>
+				<div id="modal_btn_6_text">Since 2001, this concert tour has been celebrating the beauty of music and the latest Civics on the road together. Artists like Maroon 5, Linkin Park, and Incubus headline the tour every year, bringing fans across the nation closer to their favorite music. <a href="//civictour.honda.com/">Follow the tour &gt;</a></div>
+				<div class="modal_link" id="modal_btn_6_link"></div>
+			</div>
+		</div>
+	</div>
+<!-- END OF BANNER -->
+<!-- START OF BANNER - WIDGET 5 -->
+	<div class="content">
+		<div class="banner">
+			<div class="banner_left"><a href="#" class="modal_btn"><img src="images/explore_2.png" alt="" id="modal_btn_5"></a></div>
+			<div class="banner_right">
+				<div class="right_banner_header" id="modal_btn_5_title">We care about what&#8217;s under the sea, too.</div>
+				<div id="modal_btn_5_text">Honda is a founding sponsor of Aquarium of the Pacific. Get a virtual look into the marine life in different regions with our live exhibit webcams. <a href="//automobiles.honda.com/events-and-sponsorships/pilot-aquarium-of-the-pacific.aspx">Watch live &gt;</a></div>
+				<div class="modal_link" id="modal_btn_5_link"></div>
+	      	</div>
+		</div>
+	</div>
+<!-- END OF BANNER --> 
+<!-- START OF BANNER - WIDGET 4 -->
+	<div class="content">
+		<div class="banner">
+			<div class="banner_left"><a href="#" class="modal_btn"><img src="images/explore_1.png" alt="" id="modal_btn_4"></a></div>
+			<div class="banner_right">
+				<div class="right_banner_header" id="modal_btn_4_title">Little League<sup>&reg;</sup> gets a little Honda help.</div>
+				<div id="modal_btn_4_text">Did you know Honda has been a proud national sponsor of Little League for 17 years running? Hear how we helped the Staten Island Little League be ready for opening day despite the challenging effects of Hurricane Sandy. <a href="//www.youtube.com/watch?v=Z8jM3wJS7Ho">Learn more &gt;</a></div>
+				<div class="modal_link" id="modal_btn_4_link"></div>
+			</div>
+		</div>
+	</div>
+<!-- END OF BANNER --> 
+	<div id="legalText" class="content legal footnotes">
+		<p>&sup1;For more information, visit Kelley Blue Book’s KBB.com. Kelley Blue Book is a registered trademark of Kelley Blue Book Co., Inc.</p>
+		<p>&sup2;Display accuracy will vary based on weather, size of object and speed and the display may not show all relevant traffic. The display is not a substitute for your own direct visual assessment of traffic conditions before changing lanes.</p>
+		<p>&sup3;Compatible smartphone required. All Aha platform feeds are audible, not visual in nature. Vehicle does not provide any feeds. Some state laws prohibit the operation of handheld electronic devices while operating a vehicle. Launch smartphone applications only when the vehicle is safely parked. Aha is a trademark of Harman International Industries, Inc. Your wireless carrier's rates may apply.</p>
+	</div>
+	<footer>
+		<div class="socialIconWrapper">
+			<ul class="socialIcons">
+				<li class="socialIcon"><a id="linkFacebook" href="http://www.facebook.com/Honda" target="_blank"><img src="images/icon_facebook.png" /></a></li>
+				<li class="socialIcon"><a id="linkTwitter" href="https://twitter.com/Honda" target="_blank"><img src="images/icon_twitter.png" /></a></li>
+				<li class="socialIcon"><a id="linkYouTube" href="http://www.youtube.com/user/Honda" target="_blank"><img src="images/icon_youtube.png" /></a></li>
+				<li class="socialIcon"><a id="linkPinterest" href="https://www.pinterest.com/honda/" target="_blank"><img src="images/icon_pinterest.png" /></a></li>
+			</ul>
+		</div>
+		<div class="footer_nav"><a id="linkHonda" href="http://automobiles.honda.com/" target="_blank">Honda.com</a> <a id="linkCustomerService" href="http://automobiles.honda.com/information/frequently-asked-questions.aspx" target="_blank">Customer Service/FAQs</a> <a id="linkOwnerResources" href="http://automobiles.honda.com/information/owner-resources.aspx" target="_blank">Owner Resources</a> <a id="linkMobileSite" href="http://automobiles.honda.com/mobile/">Mobile Site</a> <a id="linkPrivacy" href="http://automobiles.honda.com/information/consumer-privacy-policy.aspx" target="_blank">Privacy Policy</a> <a id="linkTerms" href="http://automobiles.honda.com/information/legal-terms.aspx" target="_blank">Terms of Use</a> </div>
+		<div class="legal">&copy;<span id="copyYear">2016</span> <a id="linkHonda2" href="http://www.honda.com/" target="_blank">American Honda Motor Co., Inc.</a> All information contained herein applies to U.S. vehicles only. <a id="linkHondaWorldwide" href="http://world.honda.com/" target="_blank">Honda Worldwide.</a> <a id="linkAdChoices" href="http://preferences-mgr.truste.com/?affiliateId=99" target="_blank">AdChoices</a></div>
+	</footer>
+<!-- START OF MODALS -->
+	<div class="modal" id="modal_1">
+		<h1 id="modal_1_title">ASIMO ROBOT</h1>
+		<iframe src="" frameborder="0" allowfullscreen class="modal_iframe" id="modal_iframe_1"></iframe>
+		<div class="close_modal_btn" id="close_modal_btn_1">X</div>
+	</div>
+	<div class="modal" id="modal_2">
+		<h1 id="modal_2_title">Introducing Honda LaneWatch&trade;&sup1;</h1>
+		<iframe src="" frameborder="0" allowfullscreen class="modal_iframe" id="modal_iframe_2"></iframe>
+		<div class="close_modal_btn" id="close_modal_btn_2">X</div>
+	</div>
+	<div class="modal" id="modal_3">
+		<h1 id="modal_3_title">The next generation of HondaLink<sup>TM3</sup> is now.</h1>
+		<iframe src="" frameborder="0" allowfullscreen class="modal_iframe" id="modal_iframe_3"></iframe>
+		<div class="close_modal_btn" id="close_modal_btn_3">X</div>
+	</div>
+	<div class="modal" id="modal_4">
+		<h1 id="modal_4_title">Little League <sup>®</sup> gets a little Honda help.</h1>
+		<iframe src="" frameborder="0" allowfullscreen class="modal_iframe" id="modal_iframe_4"></iframe>
+		<div class="close_modal_btn" id="close_modal_btn_4">X</div>
+	</div>
+	<div class="modal" id="modal_5">
+		<h1 id="modal_5_title">We care about what&#8217;s under the sea, too.</h1>
+		<iframe src="" frameborder="0" allowfullscreen class="modal_iframe" id="modal_iframe_5"></iframe>
+		<div class="close_modal_btn" id="close_modal_btn_5">X</div>
+	</div>
+	<div class="modal" id="modal_6">
+		<h1 id="modal_6_title">The Honda Civic Tour thrills fans across the country.</h1>
+		<iframe src="" frameborder="0" allowfullscreen class="modal_iframe" id="modal_iframe_6"></iframe>
+		<div class="close_modal_btn" id="close_modal_btn_6">X</div>
+	</div>
+<!-- END OF MODALS -->
+</body>
+</html>
