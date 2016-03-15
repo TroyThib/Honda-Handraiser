@@ -80,9 +80,9 @@ var data = {
 			"linkText":"Check out his moves &raquo;"
 		},
 		{
-			"title":"We are committed to enhancing visibility.",
+			"title":"We are committed to enhancing safety.",
 			"text":"From advanced designs to tiny blind-spot cameras, Honda is always innovating to provide more protection&#8212;not just for our drivers and passengers, but for all that share the road.",
-			"img":"images/discover_2.gif",
+			"img":"images/discover_2_safety.jpg",
 			"vid":"http://www.youtube.com/embed/agKAJP7Da7A?enablejsapi=1",
 			"link":"http://automobiles.honda.com/safety",
 			"linkText":"See our innovation in action &raquo;"
@@ -154,7 +154,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -195,7 +195,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -236,7 +236,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -270,7 +270,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -304,7 +304,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -345,7 +345,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -379,7 +379,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -413,7 +413,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -454,7 +454,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -488,7 +488,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -522,7 +522,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -556,7 +556,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -590,7 +590,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1233,7 +1233,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1274,7 +1274,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1315,7 +1315,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1349,7 +1349,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1383,7 +1383,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1424,7 +1424,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1458,7 +1458,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1492,7 +1492,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1533,7 +1533,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1567,7 +1567,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1601,7 +1601,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1635,7 +1635,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -1669,7 +1669,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2312,7 +2312,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2353,7 +2353,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2394,7 +2394,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2428,7 +2428,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2462,7 +2462,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2503,7 +2503,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2537,7 +2537,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2571,7 +2571,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2612,7 +2612,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2646,7 +2646,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2680,7 +2680,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2714,7 +2714,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -2748,7 +2748,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3391,7 +3391,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3432,7 +3432,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3473,7 +3473,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3507,7 +3507,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3541,7 +3541,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3582,7 +3582,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3616,7 +3616,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3650,7 +3650,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3691,7 +3691,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3725,7 +3725,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3759,7 +3759,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3793,7 +3793,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -3827,7 +3827,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4456,7 +4456,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4483,7 +4483,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4510,7 +4510,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4537,7 +4537,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4564,7 +4564,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4605,7 +4605,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4632,7 +4632,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4659,7 +4659,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4700,7 +4700,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4727,7 +4727,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4754,7 +4754,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4781,7 +4781,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -4815,7 +4815,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5445,7 +5445,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5472,7 +5472,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5499,7 +5499,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5526,7 +5526,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5553,7 +5553,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5594,7 +5594,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5621,7 +5621,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5648,7 +5648,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5689,7 +5689,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5716,7 +5716,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5743,7 +5743,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5770,7 +5770,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -5804,7 +5804,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6447,7 +6447,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6488,7 +6488,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6529,7 +6529,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6563,7 +6563,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6597,7 +6597,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6638,7 +6638,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6672,7 +6672,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6706,7 +6706,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6747,7 +6747,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6781,7 +6781,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6815,7 +6815,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6849,7 +6849,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -6883,7 +6883,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7527,7 +7527,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7568,7 +7568,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7609,7 +7609,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7643,7 +7643,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7677,7 +7677,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7718,7 +7718,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7752,7 +7752,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7786,7 +7786,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7827,7 +7827,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7861,7 +7861,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7895,7 +7895,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7929,7 +7929,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
@@ -7963,7 +7963,7 @@ var data = {
 					"alt":"Compare the 2015 Lineup"
 				},
 				"4":{
-					"img":"images/ss/img-slides_discover.jpg",
+					"img":"images/ss/img-slides_discover_safety.jpg",
 					"link":"#discover",
 					"alt":"Say Hello to ASIMO"
 				},
